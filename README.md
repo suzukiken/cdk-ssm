@@ -6,4 +6,4 @@ This is just for checking the difference of ways to get ssm params.
 * `npm install`
 * `cdk deploy`
 
-[description](https://figmentresearch.com/aws/cdkssm)
+[description](https://note.figmentresearch.com/aws/cdkssm)
